@@ -11,4 +11,6 @@
 
 ---
 # Findings and Recommendations
+[Financial Sample (1).xlsx](https://github.com/Sarah-Onyinyechi-Unachukwu/DA-Baby-Steps/files/12864401/Financial.Sample.1.xlsx)
+
 
